@@ -1,0 +1,2 @@
+sudo apt-get install gcc python-dev mc bzr python-setuptools python-markupsafe python-reportlab-accel python-zsi python-yaml python-argparse python-openssl python-egenix-mxdatetime python-usb python-serial python-jinja2 python-unittest2 python-mock python-docutils lptools make python-pydot python-psutil python-paramiko poppler-utils python-pdftools antiword 
+
